@@ -2,6 +2,7 @@ import java.util.*;
 import java.awt.*;
 import javax.swing.*;
 // FIGURE OUT HOW TO DO THE PASCAL'S TRIANGLE PROBLEM
+//Make the 10^20 # a BigInteger
 public class Tester {
 
 	public final double q = (Math.pow(10, 9)) + 7;
